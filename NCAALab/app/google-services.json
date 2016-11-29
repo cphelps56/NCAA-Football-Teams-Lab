@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "923136769636",
+    "firebase_url": "https://ncaalab.firebaseio.com",
+    "project_id": "ncaalab",
+    "storage_bucket": "ncaalab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923136769636:android:df3e11b6c3753fa8",
+        "android_client_info": {
+          "package_name": "edu.louisville.ncaalab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923136769636-tbj1fbde50f14dj93gqncgj3410jeqkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZnsu1ECdFVTWx-NyYvp2tjD2SFIn6cQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
